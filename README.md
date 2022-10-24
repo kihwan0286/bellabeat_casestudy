@@ -1,2 +1,2 @@
-# bellabeat_casestudy
+# Bellabeat Case Study
 Google Analytics Certificate Case Study
